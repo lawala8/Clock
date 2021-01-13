@@ -9,6 +9,6 @@ body{
     transform: translateX(-50%) translateY(-50%);
     color: white;
     font-size: 80px;
-    border: 1px solid #ccc;
+    border: 1px solid white;
     padding: 0px 5px 0px 5px;
 }
